@@ -36,11 +36,8 @@
 </div>
 
 <div align="center">
+ <p align="center"> 
 
-  ![Snake animation](https://github.com/MViniDias/MViniDia/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ </p>
 
-<div align="center">
-
-</div>

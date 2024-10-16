@@ -32,3 +32,7 @@
   ![Snake animation](https://github.com/MViniDias/MViniDias/blob/main/assets/github-contribution-grid-snake-dark.svg)
  </p>
 
+ </p>
+</h1>
+<p align="center">
+  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://github.com/MViniDias/MViniDias/blob/main/assets/plano%20de%20fundo.gif" />
